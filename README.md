@@ -29,7 +29,7 @@
 * [23] No module named scipy                         
 * [24] No module named psycopg2        
 
-<IMG SRC="">
+<IMG SRC="https://github.com/AnonymousAt3/cyberfixer/blob/main/img/cyberfix.png">
 
 
 --------------------------------
