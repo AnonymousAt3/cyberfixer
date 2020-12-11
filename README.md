@@ -7,10 +7,10 @@
 * [2] Full Upgrade
 * [3] Update Grub
 
-* [4]  Pip command not found                              [25] Fix broken packages
-* [5]  Mechanize module not found                         [26] Install and start apache2 server
-* [6]  No module named requests                           [27] Install Alfa AWUS036ACH drivers on kali linux
-* [7]  No module named whois                              [28] Netcat all issues fix
+* [4]  Pip command not found                              
+* [5]  Mechanize module not found                        
+* [6]  No module named requests                           
+* [7]  No module named whois                              
 * [8]  No module named distutils.util               
 * [9]  No module named github                        
 * [10] No module named nyawc.Options                 
@@ -27,7 +27,11 @@
 * [21] No module named _internal                     
 * [22] No module named torch                         
 * [23] No module named scipy                         
-* [24] No module named psycopg2        
+* [24] No module named psycopg2
+* [25] Fix broken packages
+* [26] Install and start apache2 server
+* [27] Install Alfa AWUS036ACH drivers on kali linux
+* [28] Netcat all issues fix
 
 <IMG SRC="https://github.com/AnonymousAt3/cyberfixer/blob/main/img/cyberfix.png">
 
